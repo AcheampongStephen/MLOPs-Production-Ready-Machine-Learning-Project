@@ -3,3 +3,6 @@ Production-ready MLOps project with automated model training, evaluation, CI/CD,
 
 
 evidently AI for data drift detection
+
+conda create -n visa python=3.8 -y
+conda activate visa
